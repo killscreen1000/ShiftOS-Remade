@@ -1,0 +1,1746 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ShiftOS Remade
+</name>
+</assembly>
+<members>
+<member name="T:ShiftOS_Remade.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources._3beepvirus">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.anycolourshade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.anycolourshade2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.anycolourshade3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.anycolourshade4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeaudioplayerbox">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeaudioplayerprice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeaudioplayerpricepressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapecalculator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapecalculatorprice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapecalculatorpricepressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapedepositbitnotewalletscreenshot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapedepositinfo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapedepositnowbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapedownloadbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfoaudioplayertext">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfoaudioplayervisualpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfobackbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfobutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfobuttonpressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfobuybutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfocalculatortext">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfocalculatorvisualpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfoorcwritetext">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfoorcwritevisualpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfovideoplayertext">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfovideoplayervisualpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfowebbrowsertext">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeinfowebbrowservisualpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapemoresoftware">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeorcwrite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapetitlebanner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeundefinedprice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapeundefinedpricepressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapevideoplayer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapevideoplayerprice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapevideoplayerpricepressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapewebbrowser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapewebbrowserprice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapewebbrowserpricepressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.appscapewelcometoappscape">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadcirclerubber">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadcirclerubberselected">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPaderacer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadfloodfill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadlinetool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadmagnify">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadnew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadopen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadOval">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadpaintbrush">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadpencil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadpixelplacer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadRectangle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadredo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadsave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadsquarerubber">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadsquarerubberselected">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadtexttool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ArtPadundo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.AxInterop_WMPLib">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.bitnotediggergradetable">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.BitnotesAcceptedHereLogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.bitnoteswebsidepnl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.bitnotewalletdownload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.bitnotewalletpreviewscreenshot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.bitnotewebsitetitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.BoughtGray">
+<summary>
+  Looks up a localized string similar to True.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.CatalystGrammar">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;
+&lt;grammar version=&quot;1.0&quot; xml:lang=&quot;en-US&quot;
+         xmlns=&quot;http://www.w3.org/2001/06/grammar&quot;
+         tag-format=&quot;semantics/1.0&quot; root=&quot;Main&quot;&gt;
+  
+  &lt;!-- Catalyst Grammar File
+       
+       This file gives Catalyst the ability to recognize
+       audio input and give a proper response.
+		
+  --&gt;
+  
+  &lt;rule id=&quot;Main&quot;&gt;
+    &lt;item&gt;
+      How much Code Points do I have?
+    &lt;/item&gt;
+    &lt;item&gt;Can you run &lt;ruleref uri=&quot;#programs&quot;/&gt;?&lt;/item&gt;
+    &lt;item&gt;Can you minimize &lt;ruleref uri [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.centrebutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.centrebuttonpressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.christmaseasteregg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.crash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.crash_cheat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.crash_force">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.crash_ofm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.deletefile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.deletefolder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.DesktopPlusPlusAbout">
+<summary>
+  Looks up a localized string similar to Desktop++ v1.0
+
+Ever wanted to have a useful desktop with icons? Icons that can open files, websites or other content? Icons that can be dragged across the screen any way you like? Well, Desktop++ is for you. Desktop++ constantly scans &apos;C:/ShiftOS/Home/Desktop&apos; and creates an icon for each file and folder within.
+
+Desktop++ also allows you to change between Icon and Tile view, where Tile view gives more information, and Icon View allows simplicity and draggability. It also allows you to dump a Text File con [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.dial_up_modem_02">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.dodge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.downarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.downloadmanagericon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.DSC01042">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Error_Code_10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Error_Code_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Error_Code_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.fileiconsaa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.fileskimmericon_fw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.floodgateicn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Gray_Shades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconArtpad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconAudioPlayer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconBitnoteDigger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconBitnoteWallet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconCalculator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconClock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconColourPicker_fw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconDodge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconDownloader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconFileOpener_fw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconFileSaver_fw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconFileSkimmer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconfloodgate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.icongraphicpicker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconIconManager">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconInfoBox_fw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconKnowledgeInput">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconmaze">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconNameChanger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconorcwrite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconPong">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconShifter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconShiftnet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconShiftorium">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconshutdown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconSkinLoader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconSkinShifter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconSnakey">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconSysinfo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconTerminal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconTextPad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconunitytoggle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconVideoPlayer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconvirusscanner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.iconWebBrowser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Industrial">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.infobox">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.installericon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Interop_WMPLib">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Linux_Mint_7">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.loadbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Minimatchbackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.minimatchdodgepreviewimage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.minimatchlabyrinthpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.newfolder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.newicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.nextbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.openicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.pausebutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.pixelsetter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.playbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.previousbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Receive">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ReceiveClicked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.rolldown">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.rollup">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.saveicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Send">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.SendClicked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.shiftomizericonpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.shiftomizerindustrialskinpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.shiftomizerlinuxmintskinpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.shiftomizernamechangerpreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.shiftomizerskinshifterscreenshot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.shiftomizersliderleftarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.shiftomizersliderrightarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.ShiftOS_License">
+<summary>
+  Looks up a localized string similar to Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      &quot;License&quot; shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      &quot;Licensor&quot; shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      &quot;Legal Entity&quot;  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.skindownarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.skinfile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.skinuparrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.snakeyback">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.stopbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.stretchbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.stretchbuttonpressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.Symbolinfo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.test">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.textpad_fw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.tilebutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.tilebuttonpressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.TotalBalanceClicked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.TotalBalanceUnclicked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.transactionsClicked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.transactionsUnclicked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.typesound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.uparrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.updatecustomcolourpallets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealartpad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealclock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealfileskimmer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealpong">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealshifter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealshiftorium">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealtextpad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradealunitymode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeamandpm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeapplaunchermenu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeapplaunchershutdown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpad128colorpallets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpad16colorpallets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpad32colorpallets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpad4colorpallets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpad64colorpallets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpad8colorpallets">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpaderaser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadfilltool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadlimitlesspixels">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadlinetool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadnew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadovaltool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpaintbrushtool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpenciltool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit1024">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit16384">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit4096">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit65536">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixellimit8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixelplacer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadpixelplacermovementmode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadrectangletool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadredo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadsave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadtexttool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeartpadundo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeautoscrollterminal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeblue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradebluecustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeblueshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeblueshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradebrown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradebrowncustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradebrownshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradebrownshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeclock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeclockicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeclosebutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradecolourpickericon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradecustomusername">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradedesktoppanel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradedesktoppanelclock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradedraggablewindows">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradefileskimmer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradefileskimmerdelete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradefileskimmericon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradefileskimmernew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegraycustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegrayshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegrayshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegreencustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegreenshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradegreenshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradehoursssincemidnight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeiconunitymode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeinfoboxicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradekiaddons">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradekielements">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeknowledgeinput">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeknowledgeinputicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgrademinimizebutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgrademinimizecommand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgrademinuteaccuracytime">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgrademinutesssincemidnight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgrademoveablewindows">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgrademultitasking">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeorange">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeorangecustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeorangeshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeorangeshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeosname">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepanelbuttons">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepinkcustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepinkshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepinkshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepong">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepongicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepurple">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepurplecustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepurpleshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradepurpleshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradered">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderedcustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderedshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderedshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderemoveth1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderemoveth2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderemoveth3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderemoveth4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderesize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderollupbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgraderollupcommand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradesecondssincemidnight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradesgameconsoles">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftapplauncher">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftborders">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftbuttons">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftdesktop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftdesktoppanel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshifter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftericon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftitems">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftoriumicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftpanelbuttons">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshiftpanelclock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshifttitlebar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshifttitletext">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeshutdownicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeskicarbrands">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeskinning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradesplitsecondaccuracy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradesysinfo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeterminalicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeterminalscrollbar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetextpad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetextpadicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetextpadnew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetextpadopen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetextpadsave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetitlebar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetitletext">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradetrm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeunitymode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeusefulpanelbuttons">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradevirusscanner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradewindowborders">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradewindowedterminal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradewindowsanywhere">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeyellow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeyellowcustom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeyellowshades">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.upgradeyellowshadeset">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.webback">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.webforward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.webhome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.windows11bsod_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.writesound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.zoombutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ShiftOS_Remade.My.Resources.Resources.zoombuttonpressed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

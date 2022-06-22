@@ -1,0 +1,56 @@
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\bin\Debug\ShiftOS Remade.exe.config
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\bin\Debug\ShiftOS Remade.exe
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\bin\Debug\ShiftOS Remade.pdb
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\bin\Debug\ShiftOS Remade.xml
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbprojAssemblyReference.cache
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Terminal.resources
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Resources.resources
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbproj.GenerateResource.cache
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbproj.CoreCompileInputs.cache
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS Remade.exe
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS Remade.xml
+C:\Users\Tanek\AppData\Local\Temporary Projects\ShiftOS Remade\obj\Debug\ShiftOS Remade.pdb
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.exe.config
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.exe
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.pdb
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.xml
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbprojAssemblyReference.cache
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Terminal.resources
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Resources.resources
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbproj.GenerateResource.cache
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbproj.CoreCompileInputs.cache
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.exe
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.xml
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.pdb
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.ShiftOSDesktop.resources
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Shiftorium.resources
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Template.resources
+C:\Users\Tanek\source\repos\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.CodepointClicker.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.exe.config
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.exe
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.pdb
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.xml
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbprojAssemblyReference.cache
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.CodepointClicker.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Shiftorium.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.ShiftOSDesktop.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Template.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Terminal.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Resources.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbproj.GenerateResource.cache
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.vbproj.CoreCompileInputs.cache
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.exe
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.xml
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.pdb
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Shifter.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.ShiftOSClock.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.ShiftOSintro.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Color_Picker.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.infobox.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.Textpad.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.crashscreen.resources
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.exe.manifest
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\bin\Debug\ShiftOS Remade.application
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.exe.manifest
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS Remade.application
+F:\VB important thnigs\SLNs\ShiftOS Remade\ShiftOS Remade\obj\Debug\ShiftOS_Remade.File_Skimmer.resources
